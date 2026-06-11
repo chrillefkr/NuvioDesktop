@@ -2,3 +2,15 @@
 	path = MPVKit
 	url = https://github.com/NuvioMedia/MPVKit.git
 	branch = Nuvio
+[submodule "libass-android"]
+  path = libass-android
+  url = https://github.com/peerless2012/libass-android.git
+  branch = master
+[submodule "TorrServer"]
+  path = vendor/TorrServer
+  url = https://github.com/YouROK/TorrServer.git
+  branch = master
+[submodule "quickjs-kt"]
+  path = vendor/quickjs-kt
+  url = https://github.com/dokar3/quickjs-kt.git
+  branch = main
